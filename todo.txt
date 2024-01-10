@@ -1,0 +1,14 @@
+number guesser:
+
+1-print to the stdout the number ("Enter your username to continue")
+2-take the user name from the user and store it in a variable
+3-if there is no username give him another time to enter his username
+4-if the username is not null : print('hello mr + name') from a funcction
+5-print to stdout welcome to the number guesser game
+6- create a function that generate a number
+7- tell the user if he wants to start playing
+8- if he said no close the program if yes generate a random number
+9- then say to him that you need to guess numbers between 0 and 10
+and he has 5 attemps if he did'nt succeed he'll loose
+10-if he won we go to from 10 to 100
+
